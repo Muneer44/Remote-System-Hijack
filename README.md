@@ -17,10 +17,10 @@ This application is a Proof of Concept [PoC] to understand how a malicious file 
 
 ## Capabilities:
 - Connect 2 systems remotely
-- Send and receive data over tcp
+- Send and receive data over TCP
 - Execute system commands on remote system
 - Download files from remote system
-- Upload files to remote system.
+- Upload files to the remote system.
 - Cross-platform program
 
 _This application is tested and tried on Python 3.10.7 and works on more than one computer architecture/ OS._
