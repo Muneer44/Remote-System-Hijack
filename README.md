@@ -37,6 +37,15 @@ C:\Users\user> python3 "Remote-System-Hijack/backdoor.py"
 user@host:~$ sudo python3 "Remote-System-Hijack/listener.py -i <listener's Ip> -p <port> 
 ```
 
+## Mitigations
+- Limit open network ports
+- Use complex system password
+- Apply strict firewall rules
+- Restrict file uploads on web server
+- implement strong input validation on web application
+- Use anti-malware softwares
+- Stay on top of security updates/ patches
+
 ## Disclaimer
 The use of code contained in this repository, either in part or in its totality,
 for engaging targets without prior mutual consent is illegal. **It is
